@@ -5,7 +5,7 @@ This repository contains programs for the tasks performed as a CodSoft Python Pr
 
 ### To-Do List Application
 *Features:*
--Adding tasks.
+- Adding tasks.
 -Marking tasks as completed.
 -Removing already completed tasks.
 -Deleting tasks.
